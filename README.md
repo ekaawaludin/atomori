@@ -1,2 +1,2 @@
-# colorful
-Repository for Colorful blogspot template
+# Qolorful
+Repository for Qolorful blogspot template
