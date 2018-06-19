@@ -1,2 +1,2 @@
-# Qolorful
-Repository for Qolorful blogspot template
+# Atomori
+Repository for Atomori blogspot template
